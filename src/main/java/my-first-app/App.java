@@ -1,4 +1,4 @@
-package my-first-app;
+package myfirstapp;
 
 /**
  * Hello world!
